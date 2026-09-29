@@ -1,0 +1,15 @@
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/bin/Debug/net10.0/TextRPG
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/bin/Debug/net10.0/TextRPG.deps.json
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/bin/Debug/net10.0/TextRPG.runtimeconfig.json
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/bin/Debug/net10.0/TextRPG.dll
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/bin/Debug/net10.0/TextRPG.pdb
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.AssemblyInfoInputs.cache
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.AssemblyInfo.cs
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.csproj.CoreCompileInputs.cache
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.sourcelink.json
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.dll
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/refint/TextRPG.dll
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.pdb
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/TextRPG.genruntimeconfig.cache
+/Users/doyeonlim/Desktop/csharp-project/TextRPG/obj/Debug/net10.0/ref/TextRPG.dll
